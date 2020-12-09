@@ -1,0 +1,2 @@
+# hdlbits
+verilog codes
